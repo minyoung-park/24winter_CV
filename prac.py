@@ -1,1 +1,1 @@
-print("great")
+print("great good")
